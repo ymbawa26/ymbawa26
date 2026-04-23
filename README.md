@@ -1,10 +1,18 @@
 # Yazan Bawaqna
 
-I build product-oriented software across full-stack web apps, applied machine learning, and human-centered tooling.
+I build at the intersection of data analysis, AI, and product-minded software: clean systems, explainable models, and tools people can actually use.
 
-My strongest public work right now is focused on products that solve real user problems with clear UX, honest tradeoffs, and explainable systems.
+## Portfolio
+
+**Start here:** [yazan-portfolio-sable.vercel.app](https://yazan-portfolio-sable.vercel.app)
+
+My portfolio is the most complete view of my work: selected projects, verified experience, education, skills, goals, languages, and contact links in one polished site.
 
 ## Best Places To Start
+
+- [Yazan Portfolio](https://github.com/ymbawa26/yazan-portfolio)  
+  Premium personal portfolio built with Next.js, TypeScript, Framer Motion, and Vercel.  
+  Live app: https://yazan-portfolio-sable.vercel.app
 
 - [Ghosted](https://github.com/ymbawa26/ghosted)  
   Public-facing job-post intelligence app that evaluates the quality of a job posting itself.  
@@ -16,7 +24,7 @@ My strongest public work right now is focused on products that solve real user p
 
 - [WildWhere](https://github.com/ymbawa26/WildWhere)  
   Wildlife sighting predictor with a public browser demo and a fuller Flask + scikit-learn app in the repo.  
-  Live app: https://wild-where.vercel.app
+  Live demo: https://ymbawa26.github.io/WildWhere/
 
 ## Other Repositories
 
@@ -33,7 +41,8 @@ You will also find smaller repos covering:
 - explainable ML instead of black-box hype
 - clean, deployable full-stack systems
 - strong README and demo experiences
+- connecting technical work to people, places, and real decisions
 
 ## Notes For Visitors
 
-Some repositories are polished MVPs with live demos, while others are older class or learning projects that I keep public for transparency. If you want the clearest view of how I build today, start with Ghosted, Pulse, and WildWhere.
+Some repositories are polished MVPs with live demos, while others are older class or learning projects that I keep public for transparency. If you want the clearest view of how I build today, start with the portfolio, then Ghosted, Pulse, and WildWhere.
